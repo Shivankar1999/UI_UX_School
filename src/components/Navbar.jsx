@@ -148,7 +148,7 @@ const Navbar = () => {
             </Button>
               <IconButton
                 edge="start"
-                color="inherit"
+                color="#000"
                 aria-label="menu"
                 onClick={handleMobileMenuOpen}
               >
