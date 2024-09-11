@@ -9,7 +9,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #ffff;
     --foreground: #ededed;
   }
 }
@@ -24,8 +24,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
-.slick-prev:before,
-.slick-next:before {
-  color: black;
 }
